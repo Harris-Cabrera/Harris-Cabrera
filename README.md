@@ -1,4 +1,4 @@
-# Greetings!👋 My name is Harris Cabrera
+## Greetings!👋 My name is Harris Cabrera
 
 🎓 Graduate Student in Computer Science at George Maons University
 💻 Interested in Software Engineering, Systems Programming, and Cloud Computing
