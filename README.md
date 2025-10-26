@@ -3,7 +3,7 @@
 🎓 Graduate Student in Computer Science at George Maons University <br>
 💻 Interested in Software Engineering, Systems Programming, and Cloud Computing <br> 
 ☁️ Currently learning AWS Cloud Foundations <br>  
-
+🔭 I’m currently working on expanding projects into Git Repos <br>
 
 
 <!--
