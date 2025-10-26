@@ -1,6 +1,9 @@
-# Hi there 👋 My name is Harris Cabrera
+# Greetings!👋 My name is Harris Cabrera
 
-🎓
+🎓 Graduate Student in Computer Science at George Maons University
+💻 Interested in Software Engineering, Systems Programming, and Cloud Computing
+☁️ Currently learning AWS Cloud Foundations  
+
 
 
 <!--
@@ -16,4 +19,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+📘 Projects: C, Python, Flask, and Security Systems 
+### 🛠️ Tech Stack
+- Languages: Python, C, JavaScript
+- Tools: Git, VS Code, Docker
+- Cloud: AWS (EC2, S3, IAM), Linux
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🧠 [Portfolio](https://harriscabrera.github.io/)
+- 📧 Email: hcabrera@gmu.edu
+
 -->
