@@ -1,8 +1,8 @@
-## Greetings!👋 My name is Harris Cabrera
+## Greetings!👋 My name is Harris Cabrera <br>
 
-🎓 Graduate Student in Computer Science at George Maons University  
-💻 Interested in Software Engineering, Systems Programming, and Cloud Computing  
-☁️ Currently learning AWS Cloud Foundations  
+🎓 Graduate Student in Computer Science at George Maons University <br>
+💻 Interested in Software Engineering, Systems Programming, and Cloud Computing <br> 
+☁️ Currently learning AWS Cloud Foundations <br>  
 
 
 
